@@ -1,5 +1,8 @@
 # IPL Website Clone
 
+# Demo
+https://onecompiler.com/html/43cjfu5fj
+
 ## Overview
 This project is a simple clone of the Indian Premier League (IPL) website, designed to showcase live scores, team information, and player profiles. It is built using HTML, CSS, and JavaScript, providing a basic structure that can be expanded with additional features and functionalities.
 
